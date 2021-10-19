@@ -1,9 +1,9 @@
-«Ì³é ïåðøèé ðåïîçèòîð³é»
+Â«ÃŒÂ³Ã© Ã¯Ã¥Ã°Ã¸Ã¨Ã© Ã°Ã¥Ã¯Ã®Ã§Ã¨Ã²Ã®Ã°Â³Ã©Â»
 
 echo "# LR_1" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Dzhukh/LR_1.git
+git remote add origin https://github.com/ART-SALI/LR_1.git
 git push -u origin main
